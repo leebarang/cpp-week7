@@ -1,6 +1,6 @@
 # 과제 목표
 
-LinkedList 클래스를 상속하는 List, Stack, Queue 클래스를 적절히 작성한다.
+LinkedList 클래스를 상속하는 List, Stack, Queue 클래스를 적절히 작성한다.   
 
 # 세부 목표
 
